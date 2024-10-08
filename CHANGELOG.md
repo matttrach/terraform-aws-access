@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.8](https://github.com/matttrach/terraform-aws-access/compare/v3.1.7...v3.1.8) (2024-10-08)
+
+
+### Bug Fixes
+
+* add certificate chain ([#118](https://github.com/matttrach/terraform-aws-access/issues/118)) ([20d6f4f](https://github.com/matttrach/terraform-aws-access/commit/20d6f4fc93b893b29323fdcff790934ce996f975))
+
 ## [3.1.7](https://github.com/rancher/terraform-aws-access/compare/v3.1.6...v3.1.7) (2024-09-19)
 
 
