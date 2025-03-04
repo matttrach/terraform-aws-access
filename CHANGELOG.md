@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.12](https://github.com/matttrach/terraform-aws-access/compare/v3.1.11...v3.1.12) (2025-03-04)
+
+
+### Bug Fixes
+
+* remove version constraints ([#127](https://github.com/matttrach/terraform-aws-access/issues/127)) ([0f3c590](https://github.com/matttrach/terraform-aws-access/commit/0f3c59090eca4d98c59632f229d88ad1bf7092f7))
+
 ## [3.1.11](https://github.com/rancher/terraform-aws-access/compare/v3.1.10...v3.1.11) (2024-10-16)
 
 
