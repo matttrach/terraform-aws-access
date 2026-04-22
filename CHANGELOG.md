@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.3](https://github.com/matttrach/terraform-aws-access/compare/v4.0.2...v4.0.3) (2026-04-22)
+
+
+### Bug Fixes
+
+* bump release please action from 4.4.0 to 4.4.1 ([#149](https://github.com/matttrach/terraform-aws-access/issues/149)) ([299db1b](https://github.com/matttrach/terraform-aws-access/commit/299db1b53ca1132056a6bb0a7f4eb395de1b7b4b))
+
 ## [4.0.2](https://github.com/rancher/terraform-aws-access/compare/v4.0.1...v4.0.2) (2026-04-15)
 
 
